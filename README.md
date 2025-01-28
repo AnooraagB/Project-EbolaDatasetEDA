@@ -8,6 +8,9 @@ The **Ebola Outbreak Exploratory Data Analysis (EDA)** project involves analysin
 * Visualisation of data using various libraries such as **Matplotlib**, **Seaborn**, and **Pandas**.
 * Analysis using bar charts, pie charts, and line graphs to provide insights into the spread of Ebola.
 
+## Programming language used
+* Python
+
 ## Concepts used
 * **Data Handling with Pandas**:
   * **Pandas** library was used to display and manipulate the dataset, read from computer memory, and iterate through data as per the needs of the analysis.
