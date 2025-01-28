@@ -1,6 +1,6 @@
 # Ebola Outbreak Exploratory Data Analysis (EDA)
  
-The **Ebola Outbreak Dataset Analysis** project involves analysing a dataset containing the cumulative number of confirmed and probable Ebola cases and deaths during the outbreak in Western Africa from 2014 to 2016. The dataset used includes information from 10 countries across 3 years.
+The **Ebola Outbreak Exploratory Data Analysis (EDA)** project involves analysing a dataset containing the cumulative number of confirmed and probable Ebola cases and deaths during the outbreak in Western Africa from 2014 to 2016. The dataset used includes information from 10 countries across 3 years.
 
 ## Features
 
